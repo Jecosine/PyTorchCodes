@@ -2,15 +2,21 @@
 
 This repo contains codes that wrote on pytorch learning.
 
+## Catalog
+
+- start guide
+- tensor
+- dataset and dataloader
+
 ## TODO
 
 - [ ] Basic Neural Network Implementation
-  - [ ] Perception
-  - [ ] DNN
-  - [ ] RNN
-  - [ ] LSTM
-  - [ ] CNN
-  - [ ] GAN
+- [ ] Perception
+- [ ] DNN
+- [x] RNN
+- [ ] LSTM
+- [ ] CNN
+- [ ] GAN
 
 ## Notes
 
