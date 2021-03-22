@@ -1,6 +1,6 @@
 # PyTorch Example Code
 
-This repo contains codes that wrote on pytorch learning.
+Practice code when learning pytorch.
 
 ## Catalog
 
